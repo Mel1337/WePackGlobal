@@ -1,0 +1,78 @@
+.carousel-image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center ;
+    
+}
+
+.abt-img{
+height: 85vh;
+width: 100vw;
+object-fit: cover;
+filter: brightness(0.4);
+position: absolute;
+}
+
+
+
+
+.banner-text{
+    position: static;
+    margin-top: 160px; 
+    margin-left: 35%;
+    margin-bottom: 180px;
+    color:whitesmoke;
+    filter: brightness(0.9);
+    font-size: 100px;
+    font-family: 'Gabarito', sans-serif;
+
+}
+
+.content{
+    padding-top: 140px;
+    padding-right: 20%;
+    padding-left: 20%;
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+
+.section{
+    margin-top: 30px;
+}
+.navbar-nav{
+    padding-top: 23px; 
+    padding-bottom: 15px;
+    font-family: 'Gabarito', sans-serif;
+    margin-left: 100px;
+}
+
+.nav {
+    padding-top: 23px; 
+    padding-bottom: 15px;
+}
+
+
+.items{
+    margin-top: 10px;
+    
+}
+
+.navbar-scrolled{
+    background-color:whitesmoke;
+}
+
+
+.logo{
+    max-width: 120px;
+    
+    height: auto; 
+    
+}
+.logo2{
+    margin-right: 10px; 
+    height: 40px;
+
+    
+}
